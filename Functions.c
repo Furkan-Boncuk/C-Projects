@@ -1,3 +1,4 @@
+//program that draws a rectangle with the side lengths entered from the keyboard
 #include <stdio.h>
 #include <stdlib.h>
 
