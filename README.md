@@ -1,1 +1,1 @@
-Projects i did at school
+Some projects i did at school
