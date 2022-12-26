@@ -41,7 +41,7 @@ int main() {
 	scanf("%d",&number);
 	do{
 		printf("\nSelect the process you want to do:\n");
-	    printf("(1)Find the greatest digit of the number\n");
+	        printf("(1)Find the greatest digit of the number\n");
 		printf("(2)Find the average of the digits of the number\n");
 		printf("(3)Find the number of digits of the number\n");
 		printf("(4)Exit\n");
